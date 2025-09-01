@@ -1,0 +1,19 @@
+/* Custom Navbar Styles */
+.container {
+  background-color: #343a40;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.nav-link {
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.nav-link:hover {
+  color: #ffc107 !important;
+}
+
+.btn-warning {
+  font-weight: 600;
+}
